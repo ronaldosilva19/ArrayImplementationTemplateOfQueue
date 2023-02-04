@@ -1,0 +1,3 @@
+C:/Users/ronal/CLionProjects/ArrayImplementationTemplateOfQueue/cmake-build-debug/CMakeFiles/ArrayImplementationTemplateOfQueue.dir
+C:/Users/ronal/CLionProjects/ArrayImplementationTemplateOfQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ronal/CLionProjects/ArrayImplementationTemplateOfQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
